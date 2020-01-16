@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-self: center;
+}
+
+.players {
+    flex-direction: column;
+}
